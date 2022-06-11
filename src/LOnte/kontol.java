@@ -3,6 +3,7 @@ package LOnte;
 public class kontol {
 
     public static void main(String[] args) {
-        int
+        int harga;
+        System.out.println("lo kontol");
     }
 }
